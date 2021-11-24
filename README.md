@@ -69,7 +69,7 @@ Contributors names  and contact info
 *  MySQL 5.5
 *  Maven 4.0.0
 
-# Acknowledgments
+# Acknowledgement
 
 Inspiration, code snippets, etc.
 * [Spring Security Docs](https://docs.spring.io/spring-security/site/docs/current/api/)
